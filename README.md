@@ -1,2 +1,3 @@
-# LAB_knn
-LAB k-NN
+# Laboratorio
+
+Modelo KNeighborsClassifier
